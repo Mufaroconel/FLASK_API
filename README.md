@@ -101,6 +101,3 @@ Virtual environments allow you to manage dependencies for your projects in isola
      source venv/bin/activate
      ```
 
----
-
-This README provides comprehensive instructions for setting up the environment and tools needed for your Flask API project.
